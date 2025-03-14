@@ -1,0 +1,45 @@
+# Archivos de compilación y salida
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.cache
+*.vspscc
+*.vssscc
+*.appxsym
+*.sln.docstates
+
+# Carpetas de paquetes NuGet
+packages/
+
+# Archivos de configuración específicos del usuario
+*.userprefs
+
+# Archivos de caché y temporales de Visual Studio
+.vs/
+_ReSharper*/
+*.resharper.user*
+
+# Archivos de caché y temporales del sistema operativo
+[Oo]bj/
+[Bb]in/
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store # macOS
+Thumbs.db # Windows
+
+# Archivos de configuración de herramientas de terceros (si aplica)
+*.config
+*.json
+*.ini
+
+# Archivos de paquetes de Node.js (si aplica)
+node_modules/
+
+# Archivos de datos de prueba (si aplica)
+TestResults/

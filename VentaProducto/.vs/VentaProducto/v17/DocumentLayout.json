@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0021\\source\\repos\\VentaProducto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|c:\\users\\0021\\source\\repos\\ventaproducto\\ventaproducto\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|solutionrelative:ventaproducto\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|C:\\Users\\0021\\source\\repos\\VentaProducto\\ventaproducto\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|solutionrelative:ventaproducto\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|C:\\Users\\0021\\source\\repos\\VentaProducto\\ventaproducto\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|solutionrelative:ventaproducto\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|C:\\Users\\0021\\source\\repos\\VentaProducto\\ventaproducto\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|solutionrelative:ventaproducto\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|C:\\Users\\0021\\source\\repos\\VentaProducto\\ventaproducto\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|solutionrelative:ventaproducto\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|C:\\Users\\0021\\source\\repos\\VentaProducto\\ventaproducto\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|solutionrelative:ventaproducto\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|C:\\Users\\0021\\source\\repos\\VentaProducto\\ventaproducto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8ACFBE-AE6D-4840-811B-56611C0BC894}|VentaProducto\\VentaProducto.csproj|solutionrelative:ventaproducto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "VentaProducto\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Models\\Producto.cs",
+              "RelativeToolTip": "VentaProducto\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:24:27.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VentaProducto\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "VentaProducto\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:01:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VentaProducto\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "VentaProducto\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T15:01:02.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "VentaProducto\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "VentaProducto\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T14:54:14.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "VentaProducto\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "VentaProducto\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T19:17:53.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "VentaProducto\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "VentaProducto\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:02:28.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VentaProducto\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\0021\\source\\repos\\VentaProducto\\VentaProducto\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VentaProducto\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:17:09.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
